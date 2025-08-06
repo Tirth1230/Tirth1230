@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Tirth Belsare
 
-<!--
-**Tirth1230/Tirth1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Developer Intern (Python) @ Webmyne Systems  
+🎯 Winner – CodeSprint 2024 (solo) 🏆 ₹10,000 Prize  
+🚀 Building background monitoring systems, screen recorders, and smart automation tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C, C++, Java, JavaScript, HTML/CSS
+- **Frameworks & Tools:** Django, OpenCV, PyAutoGUI, SQLite, MySQL, Git, Bootstrap
+- **Concepts:** OOP, Data Structures & Algorithms, Networking, REST APIs
+
+---
+
+## 🚧 Projects
+
+### 🖥️ [Employee Monitoring System](https://github.com/Tirth1230/employee-monitoring-system)
+> Background monitoring system with screenshot capture, admin dashboard, and alerting system.  
+> Tech: Python, Django, PyAutoGUI, OpenCV
+
+### 🏆 [CodeSprint 2024 – Winning Solution](https://github.com/Tirth1230/codesprint-2024)
+> Solo winner in national hackathon organized by Webmyne Systems.  
+> Prize: ₹10,000 | Time to solve: 20 mins out of 1 hour
+
+---
+
+## 🧠 Learning & Goals
+
+- Practicing DSA & system design
+- Exploring open source contributions
+- Aiming for Summer Internships @ Top Tech Companies
+
+---
+
+## 📬 Contact Me
+
+📧 Email: [tirthbelsare6@gmail.com](mailto:tirthbelsare6@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/tirth1305](https://www.linkedin.com/in/tirth1305)  
+💻 GitHub: [github.com/Tirth1230](https://github.com/Tirth1230)
+
+---
+
+## 📌 Fun Fact
+
+I love playing cricket 🏏, table tennis 🏓, and vibing to music 🎧
+
