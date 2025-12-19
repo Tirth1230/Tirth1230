@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tirth Belsare
 
-🎓 Software Developer Intern (Python) @ Webmyne Systems  
+🎓 Software Developer Intern (Python) @ Seer IT Solutions  
 🎯 Winner – CodeSprint 2024 (solo) 🏆 ₹10,000 Prize  
 🚀 Building background monitoring systems, screen recorders, and smart automation tools
 
